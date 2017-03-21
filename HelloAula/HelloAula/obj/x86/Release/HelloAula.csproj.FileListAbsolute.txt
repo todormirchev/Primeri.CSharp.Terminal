@@ -1,0 +1,9 @@
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.exe
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\mscorlib.dll
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\normidna.nlp
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\normnfc.nlp
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\normnfd.nlp
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\normnfkc.nlp
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\normnfkd.nlp
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.csprojResolveAssemblyReference.cache
+C:\Training aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
