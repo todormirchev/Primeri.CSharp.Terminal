@@ -1,4 +1,4 @@
-﻿# Primeri.CSharp.Terminal
+﻿### Primeri.CSharp.Terminal
 **Примери от първите модули на курс за C# в Aula.bg**
 
 Тук ще публикуваме примери за използването на:
