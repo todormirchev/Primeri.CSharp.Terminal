@@ -6,11 +6,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.BoolExplore PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BoolExplore2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BoolExplore2\Program.cs">
-    <Files>
-      <File FileName="BoolExplore2\Program.cs" Line="23" Column="4" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Modul03 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
